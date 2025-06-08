@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Página-1" id="tAvPEJa-TW7OlBHJ05g5">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jBhiMEQIGFDRWBxNa_Wc-27" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(228, 228, 228), rgb(41, 41, 41)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Livros&lt;/span&gt;&lt;/div&gt;&lt;table style=&quot;width:100%;font-size:1em;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class=&quot;code-block ng-tns-c1667500651-89 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation&quot;&gt;&lt;div class=&quot;formatted-code-block-internal-container ng-tns-c1667500651-89&quot;&gt;&lt;div class=&quot;animated-opacity ng-tns-c1667500651-89&quot;&gt;&lt;pre class=&quot;ng-tns-c1667500651-89&quot;&gt;&lt;code data-sourcepos=&quot;21:5-30:22&quot; class=&quot;code-container formatted ng-tns-c1667500651-89 no-decoration-radius&quot; data-test-id=&quot;code-content&quot; role=&quot;text&quot;&gt;PK ID_Livro&lt;br&gt;Titulo&lt;br&gt;Ano_Publicacao&lt;br&gt;ISBN&lt;br&gt;Total_Copias&lt;br&gt;Copias_Disponiveis&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;p data-sourcepos=&quot;32:5-32:83&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jBhiMEQIGFDRWBxNa_Wc-31" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;Leitores&lt;table style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 1em; width: 100%;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;code-block ng-tns-c1667500651-89 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation&quot;&gt;&lt;div class=&quot;formatted-code-block-internal-container ng-tns-c1667500651-89&quot;&gt;&lt;div class=&quot;animated-opacity ng-tns-c1667500651-89&quot;&gt;&lt;pre class=&quot;ng-tns-c1667500651-89&quot;&gt;&lt;code data-sourcepos=&quot;21:5-30:22&quot; class=&quot;code-container formatted ng-tns-c1667500651-89 no-decoration-radius&quot; data-test-id=&quot;code-content&quot; role=&quot;text&quot;&gt;PK ID_Leitor&lt;br/&gt;Nome_Leitor&lt;br/&gt;Email&lt;br/&gt;Telefone&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;p data-sourcepos=&quot;32:5-32:83&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jBhiMEQIGFDRWBxNa_Wc-32" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;Autores&lt;table style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 1em; width: 100%;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;code-block ng-tns-c1667500651-89 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation&quot;&gt;&lt;div class=&quot;formatted-code-block-internal-container ng-tns-c1667500651-89&quot;&gt;&lt;div class=&quot;animated-opacity ng-tns-c1667500651-89&quot;&gt;&lt;pre class=&quot;ng-tns-c1667500651-89&quot;&gt;&lt;code data-sourcepos=&quot;21:5-30:22&quot; class=&quot;code-container formatted ng-tns-c1667500651-89 no-decoration-radius&quot; data-test-id=&quot;code-content&quot; role=&quot;text&quot;&gt;PK ID_Autor&lt;br&gt;Nome_Autor&lt;br&gt;Nacionalidade&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;p data-sourcepos=&quot;32:5-32:83&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jBhiMEQIGFDRWBxNa_Wc-33" value="&lt;div style=&quot;box-sizing: border-box; width: 100%; background: rgb(228, 228, 228); padding: 2px;&quot;&gt;Emprestimos&lt;table style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 1em; width: 100%;&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;div class=&quot;code-block ng-tns-c1667500651-89 ng-animate-disabled ng-trigger ng-trigger-codeBlockRevealAnimation&quot;&gt;&lt;div class=&quot;formatted-code-block-internal-container ng-tns-c1667500651-89&quot;&gt;&lt;div class=&quot;animated-opacity ng-tns-c1667500651-89&quot;&gt;&lt;pre class=&quot;ng-tns-c1667500651-89&quot;&gt;&lt;code data-sourcepos=&quot;21:5-30:22&quot; class=&quot;code-container formatted ng-tns-c1667500651-89 no-decoration-radius&quot; data-test-id=&quot;code-content&quot; role=&quot;text&quot;&gt;PK ID_Emprestimo&lt;br/&gt;FK ID_Livro&lt;br/&gt;FK ID_Leitor&lt;br/&gt;Data_Emprestimo&lt;br/&gt;Data_Devolucao_Prevista&lt;br/&gt;Data_Devolucao_Real&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;p data-sourcepos=&quot;32:5-32:83&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t41LFxuZ9yCAr3vVdHqn-7" value="" style="endArrow=ERoneToMany;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="jBhiMEQIGFDRWBxNa_Wc-33" target="jBhiMEQIGFDRWBxNa_Wc-31">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="210" y="115" as="sourcePoint" />
+            <mxPoint x="310" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t41LFxuZ9yCAr3vVdHqn-8" value="1------N" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="t41LFxuZ9yCAr3vVdHqn-7">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t41LFxuZ9yCAr3vVdHqn-10" value="" style="endArrow=ERoneToMany;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jBhiMEQIGFDRWBxNa_Wc-27" target="jBhiMEQIGFDRWBxNa_Wc-33">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <mxPoint x="290" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t41LFxuZ9yCAr3vVdHqn-11" value="1------N" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="t41LFxuZ9yCAr3vVdHqn-10">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t41LFxuZ9yCAr3vVdHqn-12" value="" style="endArrow=ERoneToMany;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="114.5" y="230" as="sourcePoint" />
+            <mxPoint x="114.5" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t41LFxuZ9yCAr3vVdHqn-13" value="1------N" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;rotation=-90;" connectable="0" vertex="1" parent="t41LFxuZ9yCAr3vVdHqn-12">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
