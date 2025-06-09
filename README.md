@@ -48,6 +48,7 @@ O diagrama ER (Entity-Relationship Diagram) abaixo ilustra como essas entidades 
 * **Leitor (1:N) Empréstimos**: Um leitor pode realizar muitos empréstimos.
 
 ![Diagrama do Modelo de Dados da Biblioteca](Biblioteca.drawio.png)
+
 *Clique na imagem para visualizá-la em tamanho maior.*
 
 ## Artefatos do Projeto
