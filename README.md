@@ -59,9 +59,15 @@ O diagrama ER (Entity-Relationship Diagram) abaixo ilustra como essas entidades 
     * `BD BIBLIOTECA - Leitores.csv`
     * `BD BIBLIOTECA - Livros.csv`
     * `BD BIBLIOTECA - Emprestimo.csv`
+
+ * **Dashboard Power BI**:
+    * Arquivo do Power BI Desktop: [`Dashboard_Empréstimos_Biblioteca.pbix`](Dashboard_Empréstimos_Biblioteca.pbix)
+        * *(Para visualizar o dashboard, baixe este arquivo e abra-o com o Power BI Desktop.)*
+
 * **Board de Projeto (Trello)**: https://trello.com/invite/b/6845e362c677d353127c0a88/ATTI79d906a663e172d52f852bdbf154f90c1EFB2072/andre-henrique-vasconcelos-prova-oficial-board
 
 ## Como Acessar / Visualizar
 
 * **Diagrama ER**: O arquivo `Biblioteca.drawio.png` pode ser visualizado diretamente no GitHub. Para editar, baixe o arquivo `.drawio` e abra-o no [draw.io (diagrams.net)](https://app.diagrams.net/).
 * **Planilhas de Dados**: Podem ser visualizadas diretamente no GitHub ou baixadas e abertas em qualquer software de planilhas (Excel, Google Sheets).
+* **Dashboard Power BI**: Baixe o arquivo `.pbix` e abra-o com o [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
